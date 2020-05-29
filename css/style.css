@@ -18,7 +18,7 @@ p a:hover, h1 a:hover {
 p {
   
   margin-left: 20px;
-  letter-spacing:-0.05em;
+  letter-spacing:-0.07em;
   line-height: 1.2;
 
 }
@@ -32,7 +32,7 @@ p {
     z-index: 1000
     background-color: none;
     margin-top: 10px;
-    letter-spacing:-0.09em;
+    font-weight: 500;
 
     
     
@@ -47,6 +47,7 @@ p {
     margin-top: 10px;
     background: none;
     opacity: 1  ;
+    font-weight: 500;
 
 }
 
